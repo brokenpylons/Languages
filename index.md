@@ -1,4 +1,4 @@
-# Interesting languages
+# Languages
 
 ## Thue
 
@@ -11,3 +11,10 @@ https://en.wikipedia.org/wiki/Thue_(programming_language)
 String rewriting based on Markov algorithm.
 
 https://en.wikipedia.org/wiki/Refal
+
+
+# Automata
+
+## Pointer machine
+
+https://en.wikipedia.org/wiki/Pointer_machine
