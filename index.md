@@ -21,4 +21,5 @@ https://en.wikipedia.org/wiki/Pointer_machine
 
 # Formal languages
 
-communicating sequential processes 
+Communicating sequential processes
+Indexed language
