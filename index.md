@@ -23,3 +23,7 @@ https://en.wikipedia.org/wiki/Pointer_machine
 
 * Communicating sequential processes
 * Indexed language
+
+# Interesting properties
+
+https://en.wikipedia.org/wiki/Cross-serial_dependencies
