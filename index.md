@@ -23,6 +23,7 @@ https://en.wikipedia.org/wiki/Pointer_machine
 
 * Communicating sequential processes
 * Indexed language
+* Pattern language
 
 # Interesting properties
 
